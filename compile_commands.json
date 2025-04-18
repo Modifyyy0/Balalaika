@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/narma/Desktop/Game/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Users\\narma\\Desktop\\Game\\main.c",
+  "file": "C:/Users/narma/Desktop/Game/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+}
+]
